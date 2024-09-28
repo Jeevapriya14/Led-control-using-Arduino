@@ -1,6 +1,8 @@
-# Led-control-using-Arduino
 NAME: JEEVAPRIYA R
 REG NO. : 212222220018
+
+## EX NO.1: LED control using Arduino
+
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
